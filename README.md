@@ -1,4 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
+[!Languages][languages-shield]]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -147,6 +148,8 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/detonoyoru?style=for-the-badge
 [contributors-url]: #
+
+[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/readme-template?style=for-the-badge
 
 [forks-shield]: https://img.shields.io/github/forks/alynapchuk/detonoyoru?style=for-the-badge
 [forks-url]: #
