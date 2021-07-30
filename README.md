@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Languages][languages-shield]][languages-url]
+[![Languages][languages-shield]]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
