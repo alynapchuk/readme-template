@@ -18,9 +18,7 @@
     Summary of project/repository.
     <br />
     <br />
-    <a href="#">Report Bug</a>
-    ·
-    <a href="#">Request Feature</a>
+    <a href="https://github.com/alynapchuk/repo_name/issues">Report Bug or Request Feature</a>
   </p>
 </p>
 
