@@ -152,7 +152,7 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 [languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/readme-template?color=90ab60&style=for-the-badge
 [languages-url]: #
 
-[forks-shield]: https://img.shields.io/github/forks/alynapchuk/readme-template?color=ffb703&style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alynapchuk/detonoyoru?color=f5af00&style=for-the-badge
 [forks-url]: #
 
 [issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/detonoyoru?style=for-the-badge
