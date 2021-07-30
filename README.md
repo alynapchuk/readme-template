@@ -146,7 +146,7 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/detonoyoru?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/readme-template?color=219ebc&style=for-the-badge
 [contributors-url]: #
 
 [languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/readme-template?style=for-the-badge
