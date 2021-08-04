@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="#" alt="Logo" width="80" height="80">
+    <img src="#" alt="Logo" width="50%">
   </a>
 
   <h3 align="center">Title</h3>
@@ -18,7 +18,7 @@
     Summary of project/repository.
     <br />
     <br />
-    <a href="https://github.com/alynapchuk/repo_name/issues">Report Bug or Request Feature</a>
+    <a href="https://github.com/alynapchuk/REPONAME/issues">Report Bug or Request Feature</a>
   </p>
 </p>
 
@@ -67,9 +67,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### Built With
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Example](#)
+* [Example](#)
+* [Example](#)
 
 
 
@@ -80,7 +80,7 @@ This is how you may set up this project locally. To get a local copy up and runn
 
 ### Prerequisites
 
-Get a free API Key at [https://example.com](https://example.com)
+Get a free API Key at [API Website](#)
 
 Install npm
 
