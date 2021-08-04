@@ -144,16 +144,16 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - [Twitter](https://twit
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/readme-template?color=219ebc&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/REPONAME?color=219ebc&style=for-the-badge
 [contributors-url]: #
 
-[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/readme-template?color=90ab60&style=for-the-badge
+[languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/REPONAME?color=90ab60&style=for-the-badge
 [languages-url]: #
 
-[forks-shield]: https://img.shields.io/github/forks/alynapchuk/detonoyoru?color=f5af00&style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alynapchuk/REPONAME?color=f5af00&style=for-the-badge
 [forks-url]: #
 
-[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/detonoyoru?style=for-the-badge
+[issues-shield]: https://img.shields.io/bitbucket/issues-raw/alynapchuk/REPONAME?style=for-the-badge
 [issues-url]: #
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
